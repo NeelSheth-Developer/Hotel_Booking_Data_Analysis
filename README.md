@@ -1,4 +1,4 @@
-<h1>EDA on Hotel Boonking Analysis</h1>
+<h1>EDA on Hotel Booking Analysis</h1>
 <hr>
 
 This EDA project on Hotel Booking Analysis investigates cancellations, and their underlying patterns; and suggests measures that can be implemented to reduce cancellations and secure revenue1:
